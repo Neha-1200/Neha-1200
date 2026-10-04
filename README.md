@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=NEHA%20DHAMAL&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=DEVOPS%20ENGINEER&descSize=21&descAlignY=62&descColor=00E5C3&color=0:0B3B6E,50:102A43,100:087F8C" width="100%"/>
 
-### ⚡ BUILD · AUTOMATE · DEPLOY · OPTIMIZE
+### BUILD · AUTOMATE · DEPLOY · OPTIMIZE
 
 <a href="https://github.com/Neha-1200">
 <img src="https://img.shields.io/badge/GitHub-Neha--1200-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -17,12 +17,7 @@
 ---
 
 <div align="center">
-
-## 👩‍💻 DEVOPS ENGINEER
-
-**4+ YEARS · CLOUD · AUTOMATION · RELIABILITY**
-
-DevOps Engineer with **4+ years of experience** across cloud infrastructure,
+DevOps Engineer with 4+ years of experience across cloud infrastructure,
 CI/CD automation, containerization, monitoring, and production environments.
 
 Focused on building **automated, scalable, and reliable solutions**
